@@ -1,0 +1,174 @@
+﻿body {
+}
+
+.labels {
+    margin-left: 40%;
+    margin-top: 25%;
+    border-radius: 8px;
+}
+
+    .labels:hover {
+        background-color: darkgrey;
+        height: 50px;
+    }
+
+.labels1 {
+    margin-left: 40%;
+    margin-top: 5%;
+    border-radius: 8px;
+}
+
+    .labels1:hover {
+        background-color: darkgrey;
+        height: 50px;
+    }
+
+.btnDesign {
+    border-radius: 8px;
+    width: 150px;
+    margin-top: 5%;
+    margin-left: 41%;
+}
+
+    .btnDesign:hover {
+        background-color: darkgrey;
+        height: 50px;
+    }
+
+.page {
+    
+  
+    background-color: white;
+    margin: 6% 8%;
+    border-radius: 15px;
+    padding-top:50px;
+}
+
+.header {
+    border-radius: 2px;
+    font-size: 15px !important;
+    line-height: 40px;
+    text-decoration: none;
+    color: #ed9df773;
+    border-bottom: solid;
+}
+
+.header-link {
+    text-decoration: none;
+    color: purple;
+    margin-right: 8%;
+    margin-top: 5%;
+}
+
+    .header-link:hover {
+        color: pink;
+    }
+
+.header-logo {
+    margin-top: 50px;
+    height: 120px;
+    width: auto;
+    margin-left: 10% !important;
+}
+
+.dropdown-toggle:hover {
+    display: block;
+}
+
+.signUp {
+    margin-left: 45%;
+    margin-top: 45px;
+    font-family: 'Century Gothic';
+}
+
+.tdStyle{
+    color: darkslateblue !important;
+    font-family : 'Century Gothic' !important;
+    font-weight: 500 !important;
+    padding-right: 20% !important;
+}
+
+#more{
+    display:none !important;
+}
+
+.newRecipeHeader {
+    height: 200px;
+    border-radius: 2px;
+    font-size: 15px !important;
+    line-height: 40px;
+    text-decoration: none;
+    color: #ed9df773;
+    border-bottom: solid;
+}
+
+.newRecipeHeader-link {
+    text-decoration: none;
+    color: purple;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+    .newRecipeHeader-link:hover {
+        color: pink;
+    }
+
+.newRecipeHeader-logo {
+    margin-top: 50px;
+    height: 120px;
+    width: auto;
+    margin-left: 10% !important;
+}
+
+.newRecipeItems{
+    padding-top:15%;
+    text-align:center;
+    font-family: 'Century Gothic';
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.textBoxStyle{
+    padding-top: 5%;
+    padding-right: 2%;
+    border-radius: 8px;
+}
+
+.saveBtn{
+    background-color: rebeccapurple;
+    width: 15%;
+    border-radius: 8px;
+    
+}
+
+    .saveBtn:hover{
+        color: white;
+        background-color: mediumpurple
+    }
+
+.tdDisplay{
+    display:none !important;
+}
+
+.collapsible {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+}
+
+    .active, .collapsible:hover {
+        background-color: #555;
+    }
+
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
